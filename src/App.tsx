@@ -461,7 +461,7 @@ function App() {
           © {new Date().getFullYear()} Memory Lane. Preserving moments forever.
           Made in{" "}
           <a
-            href="https://dualite.com"
+            href="https://dualite.dev"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#8B5E3C] hover:text-[#6F4B30]"
